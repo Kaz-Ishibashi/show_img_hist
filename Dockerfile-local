@@ -9,3 +9,4 @@ RUN pip install -U pip \
 CMD [ "bash", "/mnt/start-local.sh" ]
 
 WORKDIR /mnt
+# なんでもいいから変更したかった。むしゃくしゃしてやった。
